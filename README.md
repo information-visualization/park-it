@@ -1,7 +1,5 @@
 # ParkIt
 
-Assignment 3 GEOM90007 Information Visualisation at the University of Melbourne.  
-
 Live demo is available at:  
 [https://johnsonzhou.shinyapps.io/parkit/](https://johnsonzhou.shinyapps.io/parkit/)
 
