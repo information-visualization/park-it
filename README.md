@@ -4,6 +4,16 @@ A mobile-based application that assists local citizens commuting to the CBD in f
 [Live Demo](https://parkit.shinyapps.io/park-it/)
 ![screenshot](/doc/ParkIt.gif)
 
+## Contributors
+
+  <a href="https://github.com/johnsonjzhou">
+    <img src="https://contrib.rocks/image?repo=johnsonjzhou/mycirclepackage" />
+  </a>
+  <a href="https://github.com/jkengs">
+    <img src="https://contrib.rocks/image?repo=information-visualization/park-it" />
+  </a>
+<!-- Made with contrib.rocks -->
+
 ## Run App
 
 > This app uses CSS style that are not supported by the built-in browser of RStudio. For best experience, please use an external (modern) browser.
