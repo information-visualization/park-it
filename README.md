@@ -1,11 +1,9 @@
 # ParkIt
+A mobile-based application that assists local citizens commuting to the CBD in finding parking. The app displays occupancy data for different parking bays around the city, in real-time, and can be filtered based on cost, permitted parking duration, distance to be walked from destination, and whether the bay supports drivers with disability needs.
 
-Live demo is available at:  
-[https://johnsonzhou.shinyapps.io/parkit/](https://johnsonzhou.shinyapps.io/parkit/)
-
+[Live Demo](https://parkit.shinyapps.io/park-it/)
 ![screenshot](/doc/ParkIt.gif)
 
----
 ## Run App
 
 > This app uses CSS style that are not supported by the built-in browser of RStudio. For best experience, please use an external (modern) browser.
@@ -59,3 +57,5 @@ deploy <- list(
   "appName" = "parkit"
 )
 ```
+## Data Source
+[CoM Data](https://www.data.vic.gov.au)
